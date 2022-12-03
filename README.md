@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/digitalocean2345/FEMproject2_FourCardFeature)
-- Live Site URL: [Add live site URL here](https://digitalocean2345.github.io/FEMproject2_FourCardFeature/)
+- Solution URL: [https://github.com/digitalocean2345/FEMproject2_FourCardFeature]
+- Live Site URL: [https://digitalocean2345.github.io/FEMproject2_FourCardFeature/]
 
 
 ### Built with
